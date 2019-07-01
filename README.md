@@ -16,7 +16,3 @@ Finally we can get the Rotten Tomatoes value
 ex: Rotten Tomatoes:45%
 
 
-Apart from docker file
-There are .sh and .py files
-To execute this files you should have python install in it.
-./rating.sh and ./rating.py

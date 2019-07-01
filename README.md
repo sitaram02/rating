@@ -17,6 +17,6 @@ ex: Rotten Tomatoes:45%
 
 
 Apart from docker file
-there are .sh and .py file
-to execute this files you should have python install in it.
+There are .sh and .py files
+To execute this files you should have python install in it.
 ./rating.sh and ./rating.py
